@@ -28,6 +28,7 @@ I am also a Research Assistant in NTU [NLP](https://ntunlpsg.github.io/#about) g
  Workshop on Practical Machine Learning<br>
  - [Climate Oracle](https://github.com/ShirleyHan6/Hack4ClimateOracle)
  Yale-NUS hack4climate Datathon 2nd Place
+ 
 ### 2018
  - [Blinkception](https://devpost.com/software/blinkception)
  NTU Hackathon 2nd Prize
