@@ -32,7 +32,7 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
 ### 2020
  - [Terrainier](https://devpost.com/software/terrainier)
  NUS Hackathon Top-8
- - 
+
 ### 2019
  - [Data Odyssey](https://medium.com/ntuoss/data-odyssey-practical-machine-learning-c22c20cc061)
  Workshop on Practical Machine Learning <br>
@@ -47,4 +47,4 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  - National Physics Olympiad Second Prize, China.
  
 ## Extracurricular Activities
- - I used to be a member of the Toastmasters Club where I practiced public speaking including prepared long speech and impromptu speech. 
+ - I used to be a member of the [Toastmasters Club](https://www.toastmasters.org/) where I practiced public speaking including prepared long speech and impromptu speech. 
