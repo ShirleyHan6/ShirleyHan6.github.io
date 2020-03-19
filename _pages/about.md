@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am pursuing my B.Eng Computer Science degree in [Nanyang Technological University, Singapore](http://www.ntu.edu.sg/). <br>
-I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) under Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/), working on new ideas in text summarization.
+I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) under Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/), working on text generation.
 <br><br>
 
 
