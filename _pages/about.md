@@ -25,7 +25,7 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  
 ## Experiences
  - 1/2019 - Present  Scientist at Institute of Infocomm Research, Singapore
- - 8/2018 - 5/2019   Undergraduate Researcher under Prof. [Chng Eng Siong]https://www.ntu.edu.sg/home/aseschng/)
+ - 8/2018 - 5/2019   Undergraduate Researcher under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/)
  - 6/2018 - 8/2018   Visiting Student at University of California, Los Angeless
  
 ## Projects and Workshops
