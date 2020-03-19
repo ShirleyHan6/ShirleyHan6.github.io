@@ -24,11 +24,14 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  *EMNLP2019*
  
 ## Experiences
- - 1/2019 - Present  Scientist at Institute of Infocomm Research, Singapore
- - 8/2018 - 5/2019   Undergraduate Researcher under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/)
- - 6/2018 - 8/2018   Visiting Student at University of California, Los Angeless
+ - 1/2019 - Present  
+   Scientist at Institute of Infocomm Research, Singapore
+ - 8/2018 - 5/2019   
+   Undergraduate Researcher under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/)
+   Worked on graph-based extractive summarization. 
+ - 6/2018 - 8/2018   Summer Exchange at University of California, Los Angeless
  
-## Projects and Workshops
+## Other Projects
 ### 2020
  - [Terrainier](https://devpost.com/software/terrainier)
  NUS Hackathon Top-8
@@ -47,4 +50,6 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  - National Physics Olympiad Second Prize, China.
  
 ## Extracurricular Activities
+ - NTU Open Source Society Technical Director
+ - NTU Open Source Society Hackers for Charity Subcommittee
  - I used to be a member of the [Toastmasters Club](https://www.toastmasters.org/) where I practiced public speaking including prepared long speech and impromptu speech. 
