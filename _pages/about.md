@@ -50,6 +50,6 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  - National Physics Olympiad Second Prize, China.
  
 ## Extracurricular Activities
- - NTU Open Source Society Technical Director
+ - [NTU Open Source Society](https://ntuoss.com/home) Technical Director
  - NTU Open Source Society Hackers for Charity Subcommittee
  - I used to be a member of the [Toastmasters Club](https://www.toastmasters.org/) where I practiced public speaking including prepared long speech and impromptu speech. 
