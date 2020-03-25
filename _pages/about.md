@@ -27,7 +27,7 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  - 1/2019 - Present  
    Scientist at Institute of Infocomm Research, Singapore
  - 8/2018 - 5/2019   
-   Undergraduate Researcher under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/) <br>
+   Undergraduate Research under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/) <br>
    Worked on graph-based extractive summarization. 
  - 6/2018 - 8/2018   Summer Exchange at University of California, Los Angeless
  
@@ -37,10 +37,8 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  NUS Hackathon Top-8
 
 ### 2019
- - [Data Odyssey](https://medium.com/ntuoss/data-odyssey-practical-machine-learning-c22c20cc061)
- Workshop on Practical Machine Learning <br>
  - [Climate Oracle](https://github.com/ShirleyHan6/Hack4ClimateOracle)
- Yale-NUS hack4climate Datathon 2nd Place
+ Yale-NUS hack4climate Datathon 2nd Place in the Data Science Category
  
 ### 2018
  - [Blinkception](https://devpost.com/software/blinkception)
