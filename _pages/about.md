@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I am pursuing my B.Eng Computer Science degree in [Nanyang Technological University, Singapore](http://www.ntu.edu.sg/). <br>
-I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) under Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/), working on text generation.
-<br><br>
-
+I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) under Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/), working on text generation. I am particularly interested in combining deep learning techniques 
+with theories developed in other disciplines to create efficient and widely applicable solutions. 
+<br><br> 
 
 ## Publications
 ### 2019
