@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simeng Han 韩斯萌"
+title                    : "Simeng Han"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simeng Han"
+  name             : "Simeng Han 韩斯萌"
   avatar           : "profile.png"
   bio              : "Passionate in NLP Research"
   employer         :
