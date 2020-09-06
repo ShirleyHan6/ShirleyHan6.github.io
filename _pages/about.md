@@ -14,7 +14,7 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
 
 ## Publications
 ### 2019
- - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014) <br>
+ - [Resurrecting Submodularity for Neural Text Generation](https://arxiv.org/abs/1911.03014) <br>
  Simeng Han*, Xiang Lin* and Shafiq Joty <br>
  *arxiv preprint*
 
@@ -23,13 +23,12 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
  *EMNLP2019*
  
 ## Experiences
- - 1/2019 - Present  
-   Scientist at Institute of Infocomm Research, Singapore
+ - 5/2020 - Present  
+   Research Intern (WFH) under [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) <br> 
  - 8/2018 - 5/2019   
    Undergraduate Research under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/) <br>
    Worked on graph-based extractive summarization. 
- - 6/2018 - 8/2018   Summer Exchange at University of California, Los Angeless
- 
+   
 ## Other Projects
 ### 2020
  - [Terrainier](https://devpost.com/software/terrainier)
