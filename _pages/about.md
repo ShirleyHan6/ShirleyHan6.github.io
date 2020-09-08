@@ -15,11 +15,11 @@ I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) un
 ## Publications
 ### 2019
  - [Resurrecting Submodularity for Neural Text Generation](https://arxiv.org/abs/1911.03014) <br>
- Simeng Han*, Xiang Lin* and Shafiq Joty <br>
+ Simeng Han/*, Xiang Lin/* and Shafiq Joty <br>
  *arxiv preprint*
 
  - [Hierarchical Pointer Net Parsing](https://www.aclweb.org/anthology/D19-1093/) <br>
- Linlin Liu*, Xiang Lin*, Shafiq Joty, Simeng Han, and Lidong Bing <br>
+ Linlin Liu/*, Xiang Lin/*, Shafiq Joty, Simeng Han, and Lidong Bing <br>
  *EMNLP2019*
  
 ## Experiences
