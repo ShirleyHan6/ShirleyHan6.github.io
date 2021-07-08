@@ -15,10 +15,13 @@ I completed my B.Eng Computer Science degree in [Nanyang Technological Universit
 
 ## Publications
 ### 2021
-- [Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207) <br
+- [Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207) <br>
   Xiang Lin, Simeng Han, Shafiq Joty <br>
   *ICML2021*
-
+- [Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation](https://aclanthology.org/2021.naacl-main.57/) <br>
+  Alexander Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev, Yashar Mehdad <br>
+  *NAACL2021*
+  
 ### 2020
  - [Resurrecting Submodularity for Neural Text Generation](https://arxiv.org/abs/1911.03014) <br>
  Simeng Han\*, Xiang Lin\* and Shafiq Joty <br>
