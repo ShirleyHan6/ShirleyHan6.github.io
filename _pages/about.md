@@ -31,9 +31,9 @@ I completed my B.Eng Computer Science degree in [Nanyang Technological Universit
  *EMNLP2019*
  
 ## Experiences
- - 3/2019 - current
+ - 3/2019 - current:
    Research Assistant under [Shafiq Rayhan Joty](https://raihanjoty.github.io/) <br>
- - 5/2020 - 11/2020
+ - 5/2020 - 11/2020:
    Research Intern (WFH) under [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) <br>
    
 ## Other Awards
