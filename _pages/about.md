@@ -17,10 +17,11 @@ I completed my B.Eng Computer Science degree in [Nanyang Technological Universit
 ### 2021
 [Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207) <br>
 Xiang Lin, Simeng Han, Shafiq Joty <br>
-*ICML2021* <br><br>
+*ICML2021*
 
-[Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation](https://aclanthology.org/2021.naacl-main.57/)<br>
-*NAACL2021*
+[comment]: <> ([Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation]&#40;https://aclanthology.org/2021.naacl-main.57/&#41;<br>)
+
+[comment]: <> (*NAACL2021*)
 
 ### 2020
  - [Resurrecting Submodularity for Neural Text Generation](https://arxiv.org/abs/1911.03014) <br>
