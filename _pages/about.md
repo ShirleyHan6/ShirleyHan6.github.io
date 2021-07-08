@@ -11,8 +11,6 @@ redirect_from:
 I am a CS PhD student at Yale University supervised by [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/). <br><br>
 I completed my B.Eng Computer Science degree in [Nanyang Technological University, Singapore](http://www.ntu.edu.sg/) where I worked with Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/) on text summarization and text generation. At NTU, I was awarded the Best Final Year Thesis Gold Medal.
 
-<br>
-
 ## Publications
 ### 2021
 - [Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207) <br>
@@ -33,7 +31,7 @@ I completed my B.Eng Computer Science degree in [Nanyang Technological Universit
  *EMNLP2019*
  
 ## Experiences
- - 3/2019 - 5/2021
+ - 3/2019 - current
    Research Assistant under [Shafiq Rayhan Joty](https://raihanjoty.github.io/) <br>
  - 5/2020 - 11/2020
    Research Intern (WFH) under [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) <br>
