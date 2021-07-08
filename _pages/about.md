@@ -52,7 +52,7 @@ Xiang Lin, Simeng Han, Shafiq Joty <br>
 ### 2015
  - National Physics Olympiad Second Prize, China.
  
-## Extracurricular Activities
+## Miscellaneous
  - [NTU Open Source Society](https://ntuoss.com/home) Technical Director
  - NTU Open Source Society Hackers for Charity Subcommittee
- - I used to be a member of the [Toastmasters Club](https://www.toastmasters.org/) where I practiced public speaking including prepared long speech and impromptu speech. 
+ - I used to be a member of the [Toastmasters Club](https://www.toastmasters.org/) where I practiced public speaking including prepared long speech and impromptu speech.

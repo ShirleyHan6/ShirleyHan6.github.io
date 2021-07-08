@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simeng Han 韩斯萌"
+  name             : "Simeng Han"
   avatar           : "profile.png"
   bio              : "Passionate in NLP Research"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=D0dpploAAAAJ&hl=en"
-  email            : "hans0035@e.ntu.edu.sg"
+  email            : "simeng.han@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
