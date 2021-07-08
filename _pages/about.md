@@ -8,28 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my B.Eng Computer Science degree in [Nanyang Technological University, Singapore](http://www.ntu.edu.sg/). <br>
-I am also a member of the [NTU NLP Group ](https://ntunlpsg.github.io/#about) under Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/), working on text summarization and text generation.
+I am a CS PhD student at Yale University supervised by [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/). I completed my B.Eng Computer Science degree in [Nanyang Technological University, Singapore](http://www.ntu.edu.sg/) where I worked with Prof. [Shafiq Rayhan Joty](https://raihanjoty.github.io/), working on text summarization and text generation.
 <br><br> 
 
 ## Publications
-### 2019
+### 2021
+[Straight to the Gradient: Learning to Use Novel Tokens for Neural Text Generation](https://arxiv.org/abs/2106.07207) <br>
+Xiang Lin, Simeng Han, Shafiq Joty <br>
+*ICML2021* <br><br>
+
+[Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation](https://aclanthology.org/2021.naacl-main.57/)<br>
+*NAACL2021*
+
+### 2020
  - [Resurrecting Submodularity for Neural Text Generation](https://arxiv.org/abs/1911.03014) <br>
  Simeng Han\*, Xiang Lin\* and Shafiq Joty <br>
  *arxiv preprint*
 
+### 2019
  - [Hierarchical Pointer Net Parsing](https://www.aclweb.org/anthology/D19-1093/) <br>
  Linlin Liu\*, Xiang Lin\*, Shafiq Joty, Simeng Han, and Lidong Bing <br>
  *EMNLP2019*
  
 ## Experiences
- - 5/2020 - Present  
-   Research Intern (WFH) under [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) <br> 
- - 8/2018 - 5/2019   
-   Undergraduate Research under Prof. [Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/) <br>
-   Worked on graph-based extractive summarization. 
+ - 3/2019 - 5/2021
+   Research Assistant under [Shafiq Rayhan Joty](https://raihanjoty.github.io/) <br>
+ - 5/2020 - 11/2020
+   Research Intern (WFH) under [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) <br>
    
-## Other Projects
+## Other Awards
 ### 2020
  - [Terrainier](https://devpost.com/software/terrainier)
  NUS Hackathon Top-8
